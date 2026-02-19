@@ -25,7 +25,7 @@ Home'Scan은 복잡한 주거 문제를 스마트하게 해결하는 **부동산
 ![JWT (jjwt)](https://img.shields.io/badge/JWT_(jjwt)-000000?style=for-the-badge)
 ![dotenv-java](https://img.shields.io/badge/dotenv--java-000000?style=for-the-badge)
 ![Apache PDFBox](https://img.shields.io/badge/Apache_PDFBox-D22128?style=for-the-badge)
-![FastAPI 연동 — 등기부등본 AI 분석](https://img.shields.io/badge/FastAPI_연동—등기부등본_AI_분석-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI 연동 — 등기부등본 AI 분석](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </td>
 
