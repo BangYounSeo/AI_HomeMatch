@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Home'Scan&fontSize=48&fontColor=4B6BFB)
-<br/>
 
 ## [프로젝트 소개]
 
